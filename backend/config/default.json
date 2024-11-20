@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://s97588:1CprvuG0K86K9ZAV@cluster0.bf4zyjq.mongodb.net/szkielety?retryWrites=true&w=majority",
+    "jwtSecret": "yourSecretKey"
+}
